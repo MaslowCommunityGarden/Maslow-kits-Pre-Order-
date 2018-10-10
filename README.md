@@ -1,5 +1,5 @@
 # Maslow kits Pre-Order!
 
-![Maslow](link-to-the-picture)
+![Maslow](https://github.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/blob/master/mainpicture.jpg)
 
 Standard Maslow kit with ring and z-axis kit. 
