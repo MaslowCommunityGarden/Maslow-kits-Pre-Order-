@@ -1,7 +1,1 @@
-Edit this file to add assembly instructions
-
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
-
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+This is the real Maslow CNC kit that has been sold on this site. We have worked with Bar to establish our supply chain and keep the kits alive in the community. We would love your support and hope to continue to provide kits and parts to everyone that needs them.
