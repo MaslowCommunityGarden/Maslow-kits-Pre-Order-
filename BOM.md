@@ -1,7 +1,5 @@
-Edit this file to add a bill of materials
+Pre-orders are available at [Maker Made CNC](https://www.makermadecnc.com)
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
+We are on pace to ship in December.
 
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+The first 150 pre-orders will receive free shipping worldwide!!
