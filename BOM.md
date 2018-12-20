@@ -1,4 +1,4 @@
-Pre-orders are available at [Maker Made CNC](https://www.makermadecnc.com)
+Pre-orders are available at [Maker Made CNC](https://www.makermadecnc.com/shop)
 
 We are on pace to ship in December.
 
