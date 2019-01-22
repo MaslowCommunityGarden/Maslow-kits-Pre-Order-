@@ -1,4 +1,4 @@
-# Maslow kits Pre-Order!
+# Maslow kits are BACK!
 
 Kits are back! Head over to [Maker Made CNC](https://www.makermadecnc.com/shop) to secure your pre-order now. The kits will include the ring kit and z-axis.
 
