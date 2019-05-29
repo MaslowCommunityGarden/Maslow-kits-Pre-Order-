@@ -1,6 +1,6 @@
 # The Complete Maslow Kit
 
-In stock with free projects, software, and support all included.
+In stock with free projects, software, and support all included. Use code Maslow10 for free shipping and 10% off your entire order.  
 
 If you're looking for the shortest distance between purchase and production, this is the kit!
 
