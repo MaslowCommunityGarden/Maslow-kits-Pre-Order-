@@ -25,7 +25,7 @@ If you're looking for the shortest distance between purchase and production, thi
 
 MakerMade is dedicated to maintaining the open-source ideals of the Maslow CNC, while continuously improving component quality and design.  
 
-![Kit Contents](https://raw.githubusercontent.com/vannya/Maslow-kits-Pre-Order-/master/maslowkitcontents.png)*Image of the MM Ring Kit, which comes in every MM kit.*  
+![Kit Contents](https://raw.githubusercontent.com/vannya/Maslow-kits-Pre-Order-/master/kitcontents.png)*Image of the MM Ring Kit, which comes in every MM kit.*  
 
 **The MakerMade Guarantee:**  
 
