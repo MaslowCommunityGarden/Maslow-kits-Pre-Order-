@@ -1,6 +1,6 @@
 # The Complete Maslow Kit
 
-In stock with free projects, software, and support all included. Use Promo Code "Maslow10" for 10% off and free shipping on all orders.    
+In stock with free projects, support, and step-by-step assembly guide all included.  
 
 ![Maslow by MakerMade](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/master/mainpicture.jpg)  
 
