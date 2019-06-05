@@ -1,5 +1,7 @@
 # The Complete Maslow Kit
 
+Now includes a FREE upcut bit!!
+
 In stock with free projects, support, and step-by-step assembly guide all included.  
  
 
