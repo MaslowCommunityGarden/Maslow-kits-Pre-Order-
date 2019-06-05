@@ -1,4 +1,4 @@
-# The Complete Maslow Kit
+# The Complete Maslow Kit & FREE Upcut Bit
 
 Now includes a FREE upcut bit!!
 
