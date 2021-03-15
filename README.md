@@ -5,7 +5,6 @@ Now includes a FREE upcut bit!!
 In stock with free projects, support, and step-by-step assembly guide all included.  
  
 
-### **Use Promo Code "Maslow10" for 10% off and free shipping on all orders.**  
 
 Visit [www.makermadecnc.com/shop](http://www.makermadecnc.com/shop) to purchase.  
 
