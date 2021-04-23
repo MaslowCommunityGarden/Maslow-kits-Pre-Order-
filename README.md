@@ -32,7 +32,7 @@ Maker Made has taken the principle of the Maslow and upgraded every key feature.
 * NEW Mounting Brackets for Extremely Easy Storage
 
 
-![M2 Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/master/M2WHATSINTHEBOX.jpg)  
+![M2 Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/master/M2WHATSINTHEBOX.jpeg)  
 
 
 ### **Makerverse:**  
