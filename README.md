@@ -1,6 +1,5 @@
 # 2021 M2 Automated Cutting Machine Kit
 
-![M2 Kit](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/master/M2KIT.jpg)
 
 Make Bigger. Make Better. Make More with the 2021 M2 – the largest hobbyist CNC under $6000
 
