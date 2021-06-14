@@ -12,7 +12,7 @@ Free US Shipping every day! (*Router not included)
 
 ### Use promo code MASLOW10 for 10% off your order!
 
-### Visit [makermade.com](https://makermade.com) to purchase. 
+### Visit [Maker Made](https://makermade.com) to purchase. 
 
 ### **Product Summary:**
 
