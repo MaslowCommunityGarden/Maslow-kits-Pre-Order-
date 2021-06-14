@@ -1,9 +1,12 @@
 # 2021 M2 Automated Cutting Machine Kit
 
 
-Make Bigger. Make Better. Make More with the 2021 M2 – the largest hobbyist CNC under $6000
-
-The M2 is much more than a CNC machine. It’s groundbreaking making! The M2 is an affordable, easy-to-use tool for new and experienced Makers alike.
+Simply the most advanced Maslow available:
+* Up to 40% faster than the original Maslow
+* 2x faster z-axis than other Maslows
+* Laser module ready (ships July 1st 2021)
+* Custom Makerverse control software
+* With US-based customer support and weekly open office hours!
 
 Developed in Arkansas.  Shipping All Over the World.
 
@@ -20,15 +23,16 @@ In stock and ready to ship.  The world’s first wall-mounted CNC kit is here, r
 
 ### **Improvements:**
 
-Maker Made has taken the principle of the Maslow and upgraded every key feature. The M2 cuts up to 40% faster, its motor is cooler and more efficient, the router bit is smaller for better accuracy. The machine is compatible with any control software and is no longer tied to Maslow-specific software.
+Maker Made has taken the principle of the Maslow and upgraded every key feature. The M2 cuts up to 40% faster, its motor is cooler and more efficient, the router bit is smaller for better accuracy. The machine is compatible with any GRBL control software and is no longer tied to Ground Control software.
 
-* Improved Z-Axis control and speed
-* Updated Chain Slack Management
-* Intuitive New Makerverse Control Software; compatible with any Machine Control Software
-* Moves to a ⅛” bit from ¼” for Greater Accuracy
-* Better, Attractive Aesthetics with a Screen Printed Sled
+* One year warranty on all supplied parts
+* Included dust collecting sled is better than before
+* Fabric brick straps are safer and more reliable than metal straps
+* Improved, steel Z-Axis for decreased bit deflection and greater accuracy
+* Intuitive New Makerverse Control Software; compatible with Mac, Windows, and Linux
+* Included 3-pk of router bits gets you started faster
 * Easier Setup with a Partially Assembled Machine in the Box
-* NEW Mounting Brackets for Extremely Easy Storage
+* Steel frame brackets strengthen and simplify the build
 
 
 ![M2 Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/master/M2WHATSINTHEBOX.jpeg)  
