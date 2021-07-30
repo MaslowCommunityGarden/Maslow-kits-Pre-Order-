@@ -29,7 +29,7 @@ Maker Made has taken the principle of the Maslow and upgraded every key feature.
 * Included dust collecting sled is better than before
 * Fabric brick straps are safer and more reliable than metal straps
 * Improved, steel Z-Axis for decreased bit deflection and greater accuracy
-* Intuitive New Makerverse Control Software; compatible with Mac, Windows, and Linux
+* Intuitive New Makerverse Control Software; compatible with Mac, Windows and Linux
 * Included 3-pk of router bits gets you started faster
 * Easier Setup with a Partially Assembled Machine in the Box
 * Steel frame brackets strengthen and simplify the build
