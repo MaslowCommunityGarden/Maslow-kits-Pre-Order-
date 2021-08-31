@@ -69,7 +69,7 @@ At MakerMade, we are committed to offering a fantastic product and great support
 * Step-by-step Assembly Videos
 * A world-wide community with thousands of makers always ready to help and share ideas. 
 
-You simply won’t find a CNC of this caliber, price, and support anywhere else on the market.
+You simply won't find a CNC of this caliber, price, and support anywhere else on the market.
 
 ***Use promo code MASLOW10 for 10% off your order!***
 
