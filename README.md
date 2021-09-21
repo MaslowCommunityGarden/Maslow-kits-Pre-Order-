@@ -1,4 +1,4 @@
-# MakerMade’s M2 CNC Automated Cutting Machine
+# MakerMade M2 CNC Automated Cutting Machine
 
 ![M2 Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/August-2021-Updates/M2.jpg)  
 
@@ -17,7 +17,7 @@
 *Developed in Arkansas* | *Free US Shipping* | *Dedicated Support Team*  
 ***Use promo code MASLOW10 for 10% off your order!***
 
-Visit [Maker Made](https://makermade.com/collections/all/products/2021-m2-cnc-kit) to purchase. 
+Visit [MakerMade](https://makermade.com/collections/all/products/2021-m2-cnc-kit) to purchase. 
 
 
 ### **Product Summary:**
@@ -73,4 +73,4 @@ You simply won’t find a CNC of this caliber, price, and support anywhere else 
 
 ***Use promo code MASLOW10 for 10% off your order!***
 
-Visit [Maker Made](https://makermade.com/collections/all/products/2021-m2-cnc-kit) to purchase.  
+Visit [MakerMade](https://makermade.com/collections/all/products/2021-m2-cnc-kit) to purchase.  
