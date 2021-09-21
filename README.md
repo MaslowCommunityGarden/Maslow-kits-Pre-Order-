@@ -1,3 +1,4 @@
+
 # MakerMade M2 CNC Automated Cutting Machine
 
 ![M2 Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/August-2021-Updates/M2.jpg)  
@@ -14,7 +15,8 @@
 * JTech laser module ready (2.8w laser and components included with laser option)
 * T-Nut locking system for z-axis offers easy, quick adjustment to swap out and center different router sizes
 
-*Developed in Arkansas* | *Free US Shipping* | *Dedicated Support Team*  
+*Developed in Arkansas* | *Free US Shipping* | *Dedicated Support Team* 
+
 ***Use promo code MASLOW10 for 10% off your order!***
 
 Visit [MakerMade](https://makermade.com/collections/all/products/2021-m2-cnc-kit) to purchase. 
@@ -73,4 +75,4 @@ You simply won’t find a CNC of this caliber, price, and support anywhere else 
 
 ***Use promo code MASLOW10 for 10% off your order!***
 
-Visit [MakerMade](https://makermade.com/collections/all/products/2021-m2-cnc-kit) to purchase.  
+Visit [MakerMade](https://makermade.com/collections/all/products/2021-m2-cnc-kit) to purchase.
