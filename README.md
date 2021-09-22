@@ -1,9 +1,10 @@
 
-# MakerMade M2 CNC Automated Cutting Machine
+# MakerMade M2 CNC
 
 ![M2 Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/August-2021-Updates/M2.jpg)  
 
-## **Simply the most advanced and accessible Maslow available. The M2 Upgrade addresses the key opportunities for the Maslow, namely:** ##
+Simply the most advanced and accessible Maslow available. The M2 Upgrade addresses the key opportunities for the Maslow, namely:
+
 * Up to 40% faster cutting speed than other Maslows thanks to 2x z-axis movement and improved control board performance
 * The most comprehensive Maslow instruction guide available
 * Exclusive Setup & Calibration Guarantee.  Also, US-based customer support, and weekly CNC Community Zoom calls.  If you’re new to CNC, MakerMade has you covered
