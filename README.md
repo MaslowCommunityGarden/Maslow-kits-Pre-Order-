@@ -5,6 +5,7 @@
 
 Simply the most advanced and accessible Maslow available. The M2 Upgrade addresses the key opportunities for the Maslow, namely:
 
+
 * Up to 40% faster cutting speed than other Maslows thanks to 2x z-axis movement and improved control board performance
 * The most comprehensive Maslow instruction guide available
 * Exclusive Setup & Calibration Guarantee.  Also, US-based customer support, and weekly CNC Community Zoom calls.  If you’re new to CNC, MakerMade has you covered
@@ -72,8 +73,9 @@ At MakerMade, we are committed to offering a fantastic product and great support
 * Step-by-step Assembly Videos
 * A world-wide community with thousands of makers always ready to help and share ideas. 
 
-You simply won’t find a CNC of this caliber, price, and support anywhere else on the market.
+You simply won't find a CNC of this caliber, price, and support anywhere else on the market.
 
 ***Use promo code MASLOW10 for 10% off your order!***
+
 
 Visit [MakerMade](https://makermade.com/collections/all/products/2021-m2-cnc-kit) to purchase.
