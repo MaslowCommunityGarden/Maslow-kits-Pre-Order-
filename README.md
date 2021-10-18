@@ -1,7 +1,9 @@
 
 # MakerMade M2 CNC
 
-![M2 Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/August-2021-Updates/M2.jpg)  
+![M2 Kit Contents](https://github.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/blob/master/Maslow.jpg)
+
+
 
 Simply the most advanced and accessible Maslow available. The M2 Upgrade addresses the key opportunities for the Maslow, namely:
 
