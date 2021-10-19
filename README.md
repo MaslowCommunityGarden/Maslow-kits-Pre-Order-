@@ -19,6 +19,7 @@ Simply the most advanced and accessible Maslow available. The M2 Upgrade address
 * JTech laser module ready (2.8w laser and components included with laser option)
 * T-Nut locking system for z-axis offers easy, quick adjustment to swap out and center different router sizes
 
+
 *Developed in Arkansas* | *Free US Shipping* | *Dedicated Support Team* 
 
 ***Use promo code MASLOW10 for 10% off your order!***
@@ -30,7 +31,7 @@ Visit [MakerMade](https://makermade.com/collections/all/products/2021-m2-cnc-kit
 
 The ideal CNC machine for small business owners, DIYers and hobbyists, MakerMade M2 delivers a massive cutting area and advanced capabilities at the most economical price.  And with its upright 4x8 ft design, the M2 stores neatly in any garage or workspace. Simple, free software and a guided setup means you’ll be up and making in no time.
 
-Our best-selling CNC now features laser engraving capabilities, so checkout with the M2 + Laser option below and enjoy our most popular offering yet. 
+Our best-selling CNC now features laser engraving capabilities, so checkout with the M2 + Laser option below and enjoy our most popular offering yet.
 	
 *Router must be purchased separately.*
 
@@ -47,7 +48,7 @@ Our best-selling CNC now features laser engraving capabilities, so checkout with
 Here’s what comes standard with the M2: 
 
 
-![M2 Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/August-2021-Updates/Photo_2.PNG)  
+![M2 Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/August-2021-Updates/Photo_2.PNG)
 
 * Electronic control board with enhanced capabilities 
 * X, Y and Z-axis motors
