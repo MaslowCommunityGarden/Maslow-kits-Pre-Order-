@@ -1,7 +1,7 @@
 
 # MakerMade M2 CNC
 
-![M2 Kit Contents](https://github.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/blob/master/Photo_1.PNG)
+![M2 Kit Contents](https://github.com/MaslowCommunityGarden/Maslow-kits-Pre-Order-/blob/master/mainpicture.jpg)
 
 
 
